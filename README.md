@@ -5,7 +5,7 @@ yo! welcome to the best termux theme collection. 10 fire themes to make your ter
 ## 🚀 Quick Install
 
 ```bash
-https://github.com/Mujaheed56/m56-themes
+git clone https://github.com/Mujaheed56/m56-themes
 cd m56-themes
 chmod +x apply.sh preview.sh
 ./apply.sh
